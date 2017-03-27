@@ -113,7 +113,7 @@ public class TillerClient {
         ChartOuterClass.Chart cc = ChartOuterClass.Chart.newBuilder()
         		/*.setValues(config)*/
         		.setMetadata(metadata)
-        		.addDependencies(new HelmDependent().getADependent())
+        		/*.addDependencies(new HelmDependent().getADependent())*/
         		.addTemplates(template)
         		.addTemplates(template2)
         		.addTemplates(template3)
