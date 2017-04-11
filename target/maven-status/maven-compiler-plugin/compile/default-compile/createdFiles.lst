@@ -16,6 +16,7 @@ cn\com\chinacloud\paas\hapi\services\Tiller$GetHistoryResponse$Builder.class
 cn\com\chinacloud\paas\hapi\services\Tiller$GetVersionResponseOrBuilder.class
 cn\com\chinacloud\paas\hapi\services\Tiller$UninstallReleaseRequest$1.class
 cn\com\chinacloud\paas\hapi\release\StatusOuterClass$StatusOrBuilder.class
+cn\com\chinacloud\paas\grpc\client\K8SClientWatch.class
 cn\com\chinacloud\paas\hapi\services\Tiller$GetVersionResponse.class
 cn\com\chinacloud\paas\hapi\release\TestRunOuterClass$1.class
 cn\com\chinacloud\paas\hapi\services\Tiller$GetVersionRequest.class
@@ -48,6 +49,7 @@ cn\com\chinacloud\paas\hapi\services\Tiller$GetReleaseStatusRequest$Builder.clas
 cn\com\chinacloud\paas\hapi\release\ReleaseOuterClass$ReleaseOrBuilder.class
 cn\com\chinacloud\paas\hapi\services\Tiller$GetVersionRequest$1.class
 cn\com\chinacloud\paas\hapi\release\StatusOuterClass.class
+cn\com\chinacloud\paas\grpc\client\Test.class
 cn\com\chinacloud\paas\hapi\services\Tiller$TestReleaseResponse.class
 cn\com\chinacloud\paas\hapi\release\InfoOuterClass$Info.class
 cn\com\chinacloud\paas\hapi\services\Tiller$UpdateReleaseResponse$1.class
@@ -97,6 +99,7 @@ cn\com\chinacloud\paas\hapi\services\Tiller$ListSortOrBuilder.class
 cn\com\chinacloud\paas\hapi\services\Tiller$GetReleaseContentRequest$Builder.class
 cn\com\chinacloud\paas\hapi\release\TestSuiteOuterClass$1.class
 cn\com\chinacloud\paas\hapi\services\Tiller$InstallReleaseRequest$1.class
+cn\com\chinacloud\paas\grpc\client\K8SClient.class
 cn\com\chinacloud\paas\hapi\chart\ConfigOuterClass$Config.class
 cn\com\chinacloud\paas\hapi\chart\ConfigOuterClass$1.class
 cn\com\chinacloud\paas\hapi\version\VersionOuterClass$Version$1.class
